@@ -1,1 +1,2 @@
 13:45 - provavel problema com DNS distribuído via DHCP, fui ao servidor e renovei o DNS
+13:45 a 14:35 - diagnosticando e fazendo alterações no ER7206 omada, provaveis causas sendo configuração incorreta de dns, que estava apontando para o open dns e/ou problema no cache do windows
