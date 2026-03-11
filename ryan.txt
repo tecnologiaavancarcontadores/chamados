@@ -1,0 +1,1 @@
+13:45 - provavel problema com DNS distribuído via DHCP, fui ao servidor e renovei o DNS
