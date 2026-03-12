@@ -8,11 +8,11 @@
     "horaInicio": "",
     "horaFim": "",
     "lembrete": "",
-    "status": "concluída",
+    "status": "pendente",
     "prioridade": "alta",
     "cor": "#6c63ff",
     "criadoEm": "2026-03-12T16:53:09.147Z",
-    "atualizadoEm": "2026-03-12T16:58:29.767Z",
+    "atualizadoEm": "2026-03-12T17:25:38.850Z",
     "historico": [
       {
         "acao": "criada",
@@ -41,6 +41,10 @@
       {
         "acao": "atualizado → concluída",
         "em": "2026-03-12T16:58:29.767Z"
+      },
+      {
+        "acao": "status: concluída → pendente",
+        "em": "2026-03-12T17:25:38.850Z"
       }
     ]
   }
