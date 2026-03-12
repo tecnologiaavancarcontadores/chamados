@@ -5,7 +5,7 @@
     "descricao": "observar o macaco",
     "pessoa": "macaco",
     "status": "pendente",
-    "prioridade": "normal",
+    "prioridade": "alta",
     "execucao": {
       "inicioData": "",
       "fimData": "",
@@ -13,7 +13,7 @@
       "fimHora": ""
     },
     "criadoEm": "2026-03-12T19:05:55.710Z",
-    "atualizadoEm": "2026-03-12T19:59:53.503Z",
+    "atualizadoEm": "2026-03-12T20:00:34.057Z",
     "historico": [
       {
         "acao": "criada",
@@ -22,6 +22,10 @@
       {
         "acao": "editado: previsão",
         "em": "2026-03-12T19:59:53.503Z"
+      },
+      {
+        "acao": "editado: prioridade",
+        "em": "2026-03-12T20:00:34.057Z"
       }
     ]
   }
