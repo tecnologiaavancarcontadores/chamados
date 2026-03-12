@@ -7,17 +7,21 @@
     "status": "pendente",
     "prioridade": "normal",
     "execucao": {
-      "inicioData": "2026-03-13",
-      "fimData": "2026-03-16",
+      "inicioData": "",
+      "fimData": "",
       "inicioHora": "",
       "fimHora": ""
     },
     "criadoEm": "2026-03-12T19:05:55.710Z",
-    "atualizadoEm": "2026-03-12T19:05:55.710Z",
+    "atualizadoEm": "2026-03-12T19:59:53.503Z",
     "historico": [
       {
         "acao": "criada",
         "em": "2026-03-12T19:05:55.710Z"
+      },
+      {
+        "acao": "editado: previsão",
+        "em": "2026-03-12T19:59:53.503Z"
       }
     ]
   }
