@@ -28,7 +28,7 @@
     "descricao": "teste",
     "pessoa": "adriana",
     "status": "pendente",
-    "prioridade": "normal",
+    "prioridade": "alta",
     "execucao": {
       "inicioData": "2026-03-13",
       "fimData": "2026-03-16",
@@ -36,11 +36,15 @@
       "fimHora": ""
     },
     "criadoEm": "2026-03-12T18:22:11.103Z",
-    "atualizadoEm": "2026-03-12T18:22:11.103Z",
+    "atualizadoEm": "2026-03-12T18:22:26.965Z",
     "historico": [
       {
         "acao": "criada",
         "em": "2026-03-12T18:22:11.103Z"
+      },
+      {
+        "acao": "editado: prioridade",
+        "em": "2026-03-12T18:22:26.965Z"
       }
     ]
   }
