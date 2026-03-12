@@ -7,10 +7,10 @@
     "dataHora": "2026-03-12T17:25:00.000Z",
     "horaInicio": "",
     "horaFim": "",
-    "status": "concluída",
+    "status": "pendente",
     "prioridade": "normal",
     "criadoEm": "2026-03-12T17:26:00.988Z",
-    "atualizadoEm": "2026-03-12T17:26:05.178Z",
+    "atualizadoEm": "2026-03-12T17:26:34.062Z",
     "historico": [
       {
         "acao": "criada",
@@ -19,6 +19,10 @@
       {
         "acao": "status: pendente → concluída",
         "em": "2026-03-12T17:26:05.178Z"
+      },
+      {
+        "acao": "status: concluída → pendente",
+        "em": "2026-03-12T17:26:34.062Z"
       }
     ]
   }
