@@ -12,23 +12,27 @@
     "prioridade": "alta",
     "cor": "#6c63ff",
     "criadoEm": "2026-03-12T16:53:09.147Z",
-    "atualizadoEm": "2026-03-12T16:57:46.214Z",
+    "atualizadoEm": "2026-03-12T16:58:07.823Z",
     "historico": [
       {
         "acao": "criada",
         "em": "2026-03-12T16:53:09.147Z"
       },
       {
-        "acao": "atualizado Ã¢ÂÂ concluÃÂ­da",
+        "acao": "atualizado ÃÂ¢ÃÂÃÂ concluÃÂÃÂ­da",
         "em": "2026-03-12T16:57:31.875Z"
       },
       {
-        "acao": "atualizado â concluÃ­da",
+        "acao": "atualizado Ã¢ÂÂ concluÃÂ­da",
         "em": "2026-03-12T16:57:39.934Z"
       },
       {
-        "acao": "atualizado → concluída",
+        "acao": "atualizado â concluÃ­da",
         "em": "2026-03-12T16:57:46.214Z"
+      },
+      {
+        "acao": "atualizado → concluída",
+        "em": "2026-03-12T16:58:07.823Z"
       }
     ]
   }
