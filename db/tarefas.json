@@ -20,5 +20,27 @@
         "em": "2026-03-12T20:02:10.477Z"
       }
     ]
+  },
+  {
+    "id": "mmoteqj6jvyc6",
+    "titulo": "passar coisas importantes pro github",
+    "descricao": "",
+    "pessoa": "",
+    "status": "pendente",
+    "prioridade": "normal",
+    "execucao": {
+      "inicioData": "",
+      "fimData": "",
+      "inicioHora": "",
+      "fimHora": ""
+    },
+    "criadoEm": "2026-03-13T11:30:06.162Z",
+    "atualizadoEm": "2026-03-13T11:30:06.162Z",
+    "historico": [
+      {
+        "acao": "criada",
+        "em": "2026-03-13T11:30:06.162Z"
+      }
+    ]
   }
 ]
