@@ -108,5 +108,27 @@
         "em": "2026-03-13T14:19:49.593Z"
       }
     ]
+  },
+  {
+    "id": "mmozhu65b3xaf",
+    "titulo": "mudar nome da rede",
+    "descricao": "mudar nome da rede",
+    "pessoa": "",
+    "status": "pendente",
+    "prioridade": "normal",
+    "execucao": {
+      "inicioData": "",
+      "fimData": "",
+      "inicioHora": "",
+      "fimHora": ""
+    },
+    "criadoEm": "2026-03-13T14:20:28.541Z",
+    "atualizadoEm": "2026-03-13T14:20:28.541Z",
+    "historico": [
+      {
+        "acao": "criada",
+        "em": "2026-03-13T14:20:28.541Z"
+      }
+    ]
   }
 ]
